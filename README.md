@@ -17,4 +17,4 @@ Ce projet accompagne mon poster LinkedIn et contient des explications détaillé
 Rendre les concepts réseaux accessibles aux débutants et utiles aux professionnels en cybersécurité.
 
 ---
-🔗 Retrouvez-moi sur LinkedIn : [Ton Profil](https://www.linkedin.com/in/abderaheman-haji/)
+🔗 Retrouvez-moi sur LinkedIn : [Mon Profil](https://www.linkedin.com/in/abderaheman-haji/)
