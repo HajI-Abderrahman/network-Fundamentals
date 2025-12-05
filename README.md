@@ -1,5 +1,4 @@
 # 🌐 Fondamentaux du Réseau
-![ImWorkingOnItDanTurnerGIF](https://github.com/user-attachments/assets/3061999a-f5a2-4682-88ad-01527f27a0ce)
 ![I&#39;MWorkingOnItJohnWickGIF](https://github.com/user-attachments/assets/1cf60489-04ae-4241-99fc-01bfb11459df)
 
 
