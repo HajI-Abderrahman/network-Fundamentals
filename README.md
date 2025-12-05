@@ -1,4 +1,7 @@
 # 🌐 Fondamentaux du Réseau
+![ImWorkingOnItDanTurnerGIF](https://github.com/user-attachments/assets/3061999a-f5a2-4682-88ad-01527f27a0ce)
+![I&#39;MWorkingOnItJohnWickGIF](https://github.com/user-attachments/assets/1cf60489-04ae-4241-99fc-01bfb11459df)
+
 
 Bienvenue dans ce repository dédié aux bases des réseaux informatiques.  
 Ce projet accompagne mon poster LinkedIn et contient des explications détaillées, schémas et exemples pratiques.
@@ -15,4 +18,4 @@ Ce projet accompagne mon poster LinkedIn et contient des explications détaillé
 Rendre les concepts réseaux accessibles aux débutants et utiles aux professionnels en cybersécurité.
 
 ---
-🔗 Retrouvez-moi sur LinkedIn : [Ton Profil](https://linkedin.com/in/tonprofil)
+🔗 Retrouvez-moi sur LinkedIn : [Ton Profil](https://www.linkedin.com/in/abderaheman-haji/)
